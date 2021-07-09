@@ -35,10 +35,6 @@
 
 ### Coding Activity
 
-<img src="https://wakatime.com/share/@8dcf7514-baf6-4153-b799-665ff9e3c374/a680a11a-a560-4a35-ac0b-77199b879db6.png" />
-
-
-
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
