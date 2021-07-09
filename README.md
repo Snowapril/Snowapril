@@ -15,7 +15,7 @@
 
 ### Projects of Interest
 
-* [**CubbyFlow** - *Fluid rendering with real time path tracer*](https://github.com/utilforever/CubbyFlow)
+* [**CubbyFlow** - *Fluid rendering with real time*](https://github.com/utilforever/CubbyFlow)
 * [**Toon Engine** - *Custom graphics engine with toon shdaer*](https://github.com/Snowapril/ToonEngine)
 
 ### Other Interests
@@ -32,3 +32,6 @@
     <br><br>
     <a href="https://snowapril.github.io"><img src="https://img.shields.io/badge/website-snowapril.github.io-red?style=for-the-badge"></a>
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
