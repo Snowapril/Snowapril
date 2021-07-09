@@ -36,7 +36,77 @@
 ### Coding Activity
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.4%20million%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 1,240 Contributions in the Year 2021
+ > 
+> 📦 971.2 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 60 Public Repositories 
+ > 
+> 🔑 3 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
 ```text
-No Activity tracked this Week
+🌞 Morning    40 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.85% 
+🌆 Daytime    326 commits    ██████████░░░░░░░░░░░░░░░   39.52% 
+🌃 Evening    383 commits    ███████████░░░░░░░░░░░░░░   46.42% 
+🌙 Night      76 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.21%
+
 ```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       147 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.82% 
+Tuesday      111 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.45% 
+Wednesday    137 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.61% 
+Thursday     85 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.3% 
+Friday       94 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.39% 
+Saturday     89 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.79% 
+Sunday       162 commits    █████░░░░░░░░░░░░░░░░░░░░   19.64%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in C++** 
+
+```text
+C++                      23 repos            ██████████████░░░░░░░░░░░   56.1% 
+Python                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.2% 
+C                        3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.32% 
+Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88% 
+JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.44%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/Snowapril/Snowapril/main/charts/bar_graph.png) 
+
+
+ Last Updated on 09/07/2021
 <!--END_SECTION:waka-->
