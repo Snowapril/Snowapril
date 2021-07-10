@@ -33,7 +33,7 @@
     <a href="https://snowapril.github.io"><img src="https://img.shields.io/badge/website-snowapril.github.io-red?style=for-the-badge"></a>
 </p>
 
-### Coding Activity
+### Coding Activity Last Week
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-74-blue)
