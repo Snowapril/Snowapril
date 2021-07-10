@@ -36,7 +36,7 @@
 ### Coding Activity
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-74-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.4%20million%20lines%20of%20code-blue)
 
@@ -81,13 +81,18 @@ Sunday       162 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      1 hr 11 mins        █████████████░░░░░░░░░░░░   52.4% 
+CMake                    20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.41% 
+XML                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.25% 
+Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.38% 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.04%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs               ██████████████████████░░░   88.73% 
+Android Studio           15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.27%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 15 mins       █████████████████████████   100.0%
 
 ```
 
@@ -108,5 +113,5 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Snowapril/Snowapril/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/07/2021
+ Last Updated on 10/07/2021
 <!--END_SECTION:waka-->
