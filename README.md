@@ -15,8 +15,10 @@
 
 ### Projects of Interest
 
-* [**CubbyFlow** - *Fluid rendering with real time*](https://github.com/utilforever/CubbyFlow)
-* [**Toon Engine** - *Custom graphics engine with toon shdaer*](https://github.com/Snowapril/ToonEngine)
+* [**RenderFlow** - *Fluid rendering with real time*](https://github.com/CubbyFlow/RenderFlow)
+* [**RustPython** - *A Python Interpreter written in Rust*](https://github.com/RustPython/RustPython)
+* [**VRoomEditor** - 3D Map editor for Virtual conference platform **VRoom**](https://github.com/snowapril/VRoomEditor)
+* [**YachtSimulator** - Yacht board game simulator with Vulkan and modern c++](https://github.com/Snowapril/YachtSimulator)
 
 ### Other Interests
 
