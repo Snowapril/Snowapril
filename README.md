@@ -17,8 +17,9 @@
 
 * [**RenderFlow** - *Fluid rendering with real time*](https://github.com/CubbyFlow/RenderFlow)
 * [**RustPython** - *A Python Interpreter written in Rust*](https://github.com/RustPython/RustPython)
-* [**VRoomEditor** - 3D Map editor for Virtual conference platform **VRoom**](https://github.com/snowapril/VRoomEditor)
-* [**YachtSimulator** - Yacht board game simulator with Vulkan and modern c++](https://github.com/Snowapril/YachtSimulator)
+* [**VRoomEditor** - *3D Map editor for Virtual conference platform **VRoom** *](https://github.com/snowapril/VRoomEditor)
+* [**YachtSimulator** - *Yacht board game simulator with Vulkan and modern c++*](https://github.com/Snowapril/YachtSimulator)
+* [**MapGo** - *AR map navigator & space recommendation*](https://github.com/PNU-Sinbaram/MapGo)
 
 ### Other Interests
 
