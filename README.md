@@ -20,7 +20,7 @@
 * [**VRoomEditor** - *3D Map editor for Virtual conference platform **VRoom** *](https://github.com/snowapril/VRoomEditor)
 * [**YachtSimulator** - *Yacht board game simulator with Vulkan and modern c++*](https://github.com/Snowapril/YachtSimulator)
 * [**terrain-rs** - *random terrain generator & visualizer*](https://github.com/snowapril/terrain-rs)
-* [**ogre-next** - *aka ogre v2 - scene-oriented, flexible 3D C++ engine*](https://github.com/OGRECave/ogre-next)
+* [**blender** - *open-source rendering engine*](https://github.com/blender/blender)
 * [**5dChess** - *5d chess environment to RL developers*](https://github.com/snowapril/5dChess)
 
 
