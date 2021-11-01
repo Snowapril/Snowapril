@@ -17,6 +17,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # ... other options
+          token: ${{ secrets.METRICS_TOKEN }}
           plugin_contributors: yes
           plugin_contributors_base: ""               # Base reference (commit, tag, branch, etc.)
           plugin_contributors_head: main             # Head reference (commit, tag, branch, etc.)
