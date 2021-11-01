@@ -23,12 +23,9 @@
 * [**godot** - *Multi-platform 2D and 3D game engine*](https://github.com/godotengine/godot)
 * [**5dChess** - *5d chess environment to RL developers*](https://github.com/snowapril/5dChess)
 
+### Contributing repositories
 
-### Other Interests
-
-* Brewing Coffee
-* Baking Dessert 
-* Cafe Tour
+![Metrics](https://github.com/snowapril/snowapril/blob/main/github-metrics.svg)
 
 ### Github Stats
  
