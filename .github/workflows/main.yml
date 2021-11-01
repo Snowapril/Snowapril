@@ -26,9 +26,9 @@ jobs:
           plugin_contributors_sections: contributors # Display contributors sections
           plugin_contributors_categories: |
             {
-             "📚 Documentation": ["**/**.md"],
-             "💻 Code": ["**/**.rs", "**/**.cpp", "**/**.c", "**/**.hpp", "**/**.h", "**/**.kt", "**/**.java", "**/**.py", "**/**.js"],
-             "#️⃣ Others": ["*"]
+              "📚 Documentation": ["README.md", "docs/**"],
+              "💻 Code": ["source/**", "src/**"],
+              "#️⃣ Others": ["*"]
             }
           plugin_habits: yes
           plugin_habits_from: 200       # Use 200 events to compute habits
