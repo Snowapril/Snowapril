@@ -23,10 +23,6 @@
 * [**godot** - *Multi-platform 2D and 3D game engine*](https://github.com/godotengine/godot)
 * [**5dChess** - *5d chess environment to RL developers*](https://github.com/snowapril/5dChess)
 
-### Contributing repositories
-
-![Metrics](https://github.com/snowapril/snowapril/blob/main/github-metrics.svg)
-
 ### Github Stats
  
 [![Snowapril's github stats](https://github-readme-stats.vercel.app/api?username=Snowapril&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/Snowapril)
