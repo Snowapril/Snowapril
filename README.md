@@ -36,11 +36,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-C        3 hrs 29 mins   ██████████▓░░░░░░░░░░░░░░   42.89 % 
-Rust     3 hrs 7 mins    █████████▓░░░░░░░░░░░░░░░   38.28 % 
-Other    35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-Python   28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-Java     25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+C        5 hrs 45 mins   █████████████▒░░░░░░░░░░░   53.78 % 
+Rust     3 hrs 5 mins    ███████▒░░░░░░░░░░░░░░░░░   28.84 % 
+Other    50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+Python   28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+Java     25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 ```
 <!--END_SECTION:waka-->
 ![hacktoberfestStatus](http://badge.hacktoberfestkorea.com/?githubUserName=snowapril)
