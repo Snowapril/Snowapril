@@ -42,5 +42,3 @@ Rust     3 hrs 31 mins   ████░░░░░░░░░░░░░░�
 Other    1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
 HTML     37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
 ```
-<!--END_SECTION:waka-->
-![hacktoberfestStatus](http://badge.hacktoberfestkorea.com/?githubUserName=snowapril)
