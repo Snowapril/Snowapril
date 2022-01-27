@@ -31,14 +31,3 @@
     <br><br>
     <a href="https://snowapril.github.io"><img src="https://img.shields.io/badge/website-snowapril.github.io-red?style=for-the-badge"></a>
 </p>
-
-### Coding Activity Last Week
-
-<!--START_SECTION:waka-->
-```text
-C        11 hrs 26 mins  ████████████▒░░░░░░░░░░░░   49.90 % 
-Python   5 hrs 19 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.20 % 
-Rust     3 hrs 31 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Other    1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-HTML     37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-```
