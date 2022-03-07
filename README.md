@@ -17,11 +17,10 @@
 
 * [**RenderFlow** - *Fluid rendering with real time*](https://github.com/CubbyFlow/RenderFlow)
 * [**RustPython** - *A Python Interpreter written in Rust*](https://github.com/RustPython/RustPython)
-* [**VRoomEditor** - *3D Map editor for Virtual conference platform **VRoom** *](https://github.com/snowapril/VRoomEditor)
-* [**YachtSimulator** - *Yacht board game simulator with Vulkan and modern c++*](https://github.com/Snowapril/YachtSimulator)
-* [**terrain-rs** - *random terrain generator & visualizer*](https://github.com/snowapril/terrain-rs)
+* [**vk_voxel_cone_tracing** - *Vulkan Voxel-based global illumination*](https://github.com/Snowapril/vk_voxel_cone_tracing)
 * [**godot** - *Multi-platform 2D and 3D game engine*](https://github.com/godotengine/godot)
-* [**5dChess** - *5d chess environment to RL developers*](https://github.com/snowapril/5dChess)
+* [**o3de** - *Apache 2.0-licensed multi-platform 3D engine*](https://github.com/o3de/o3de)
+* [**hyperism** - *Hyperledger blockchain network for enterprise private version control system*](https://github.com/Hyperism/hyperism)
 
 ### Github Stats
  
