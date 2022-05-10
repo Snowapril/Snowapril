@@ -28,5 +28,8 @@
 
 <p align="center">
     <br><br>
-    <a href="https://snowapril.github.io"><img src="https://img.shields.io/badge/website-snowapril.github.io-red?style=for-the-badge"></a>
+    <a href="mailto:sinjihng@gmail.com"><img src="https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"></a>
+    <a href="https://snowapril.github.io"><img src="https://img.shields.io/badge/website-snowapril.github.io-red?style=flat-square"></a>
+    <a href="https://twitter.com/sinjihng/"><img src="https://img.shields.io/badge/-Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/snowapril/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
 </p>
