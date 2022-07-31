@@ -5,8 +5,6 @@
 
 <p align="center">
   <strong>
-    Computer Science Undergraduate in <a href="https://pusan.ac.kr/">Pusan National University</a>
-    <br>
     Interested in anything graphics, high performance compute in real time
   </strong>
 </p>
